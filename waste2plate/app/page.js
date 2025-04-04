@@ -69,4 +69,4 @@ const FoodAlertLandingPage = () => {
   );
 };
 
-export default FoodAlertLandingPage;
+export default null;
